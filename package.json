@@ -1,0 +1,13 @@
+{
+  "name": "todo-list-fullstack",
+  "version": "1.0.0",
+  "description": "Level 1 full-stack To-Do List application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
